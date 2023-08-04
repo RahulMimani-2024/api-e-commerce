@@ -3,8 +3,8 @@
 This is a fastify , prisma powered backend api for the e commerce 
 
 to run this api , first download it as a zip
--- unzip 
--- run terminal in root of the project directory 
+* unzip 
+* run terminal in root of the project directory 
 -- run command `npm install`
 -- create account on planetscale db 
 -- copy connection string of the cluster 
