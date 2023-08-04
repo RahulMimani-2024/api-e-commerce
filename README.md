@@ -13,9 +13,9 @@ to run this api , first download it as a zip
 * now in terminal run npm start 
 * to view the documentation open browser and type http://localhost:3000/docs
 
-// Functionalites -- user can register and login
-// can CRUD cart
-// can place Order
-// can view Order
-// can view products based on category
-// can view category
+Functionalites -- user can register and login
+*// can CRUD cart
+*// can place Order
+*// can view Order
+*// can view products based on category
+*// can view category
