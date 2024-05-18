@@ -1,4 +1,4 @@
-# task-triveous
+# API
 
 This is a fastify , prisma powered backend api for the e commerce 
 
